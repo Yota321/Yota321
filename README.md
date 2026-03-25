@@ -1,4 +1,4 @@
-# G.S. Ahamed
+# Golma Sayon Ahamed
 
 **Brand & UI Designer** · Bangalore, India · Open to remote & international opportunities
 
