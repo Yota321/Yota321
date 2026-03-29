@@ -1,16 +1,16 @@
-# Golam Sayon Ahamed
+# hey, I'm Sayan 👋
 
-**Brand & UI Designer** · Bangalore, India · Open to remote & international opportunities
+**Brand & UI Designer** · Bangalore, India
 
----
-
-I'm a third-year design student who gets too interested in everything —
-branding, type, storytelling, code. I don't think that's a problem.
+I'm a third-year design student who gets too interested in everything.
+Branding, type, storytelling, code. I don't think that's a problem.
 I think that's the whole point.
 
+Currently interning at a health-tech startup. Looking for what's next.
+
 ---
 
-### 🔗 Connect
+### 🔗 Find me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sayanahamed.online-black?style=for-the-badge&logo=safari&logoColor=white)](https://sayanahamed.online)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/golamsayanahamed)
@@ -19,9 +19,11 @@ I think that's the whole point.
 
 ---
 
-### 🗂 Selected Work
+### 🗂 Work
 
-| Project | Type |
+These are real projects. Campaign concepts, UI systems, live internship work, and things I made just to see if I could.
+
+| Project | What it is |
 |---|---|
 | [Run Your Story](https://sayanahamed.online/run-your-story.html) | Campaign & Brand Concept |
 | [Forge](https://sayanahamed.online/forge.html) | UI/UX Platform Design |
@@ -31,16 +33,16 @@ I think that's the whole point.
 
 ---
 
-### 📍 Currently
+### 📍 Right now
 
-- 🎓 BVA, Graphic & Communication Design — Bangalore (2023–Present)
-- 💼 Brand & Campaign Design Intern at **RaazMD** (Health-tech)
-- 🔍 Looking for internships from **Aug–Sept 2026**
-- 🌐 Open to remote · worldwide · relocation considered
+- 🎓 BVA, Graphic & Communication Design · Bangalore (2023 - Present)
+- 💼 Brand & Campaign Design Intern · **RaazMD** (Health-tech)
+- 🔍 Actively looking for internships · **Aug - Sept 2026**
+- 🌐 Open to remote, worldwide, relocation considered
 
 ---
 
-### 🛠 Tools
+### 🛠 Tools I actually use
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -53,8 +55,8 @@ I think that's the whole point.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub activity
 
-![Yota321's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yota321&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yota321&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yota321&layout=compact&theme=github_dark&hide_border=true)
