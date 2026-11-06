@@ -37,7 +37,7 @@ These are real projects. Campaign concepts, UI systems, live internship work, an
 
 - 🎓 BVA, Graphic & Communication Design · Bangalore (2023 - Present)
 - 💼 Brand & Campaign Design Intern · **RaazMD** (Health-tech)
-- 🔍 Actively looking for internships · **Aug - Sept 2026**
+- 🔍 Actively looking for internships · **January 2027**
 - 🌐 Open to remote, worldwide, relocation considered
 
 ---
